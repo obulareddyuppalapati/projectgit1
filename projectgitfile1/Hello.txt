@@ -1,0 +1,6 @@
+Hi Git,
+what is git?
+Git is a distributed version controlling system, that track the changes in code and allowing multiple developer collaborate efficiently.
+
+What is Git Hub?
+GitHub is cloud based platform for t he GIT repository, It tracks the changes in code and allowing the developers to track, change and collaborate each other. 
